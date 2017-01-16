@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "Hello Chrome",
+  "description": "This is a sample of a chrome extension",
+  "version": "0.1",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  }
+}
+
